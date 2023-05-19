@@ -745,6 +745,7 @@ body {
     font-weight: 900;
     line-height: 1;
     z-index: 1;
+    margin: 0 0 1.6rem 0!important;
 }
 
 .intro--banner button {
@@ -877,7 +878,7 @@ body {
 
 @media (max-width: 600px) {
     .intro--banner {
-        height: 360px
+        height: 260px
     }
 
     .intro--banner h1 {
